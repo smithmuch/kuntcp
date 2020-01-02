@@ -2,5 +2,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/smithmuch/kuntcp/m
 chmod +x ./kcptun.sh
 ./kcptun.sh
 
+
+加速端口填写ssr的端口
 发送窗口、接受窗口都填写：1024
 是否禁止压缩，选择：f
