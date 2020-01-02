@@ -1,3 +1,6 @@
 wget --no-check-certificate https://raw.githubusercontent.com/smithmuch/kuntcp/master/kcptun.sh
 chmod +x ./kcptun.sh
 ./kcptun.sh
+
+发送窗口、接受窗口都填写：1024
+是否禁止压缩，选择：f
